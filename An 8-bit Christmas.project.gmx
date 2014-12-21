@@ -20,7 +20,7 @@
     <sprite>sprites\sprite_coal_elf</sprite>
     <sprite>sprites\sprite_dirt</sprite>
     <sprite>sprites\sprite_fire</sprite>
-    <sprite>sprites\sprite10</sprite>
+    <sprite>sprites\sprite_Door</sprite>
   </sprites>
   <backgrounds name="background"/>
   <paths name="paths"/>
