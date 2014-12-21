@@ -97,7 +97,7 @@ else {
     }
 }
 if !keyboard_check(ord('A')) &amp;&amp; !keyboard_check(ord('D')) {sprite_index = sprite_Player;}
-if keyboard_check(ord('W')) &amp;&amp; (physics_test_overlap(x - 1, y + 1, 180, Grass) &amp;&amp; physics_test_overlap(x + 1, y + 1, 180, Grass)) {physics_apply_impulse(x, y, 0, -205);}
+if keyboard_check(ord('W')) &amp;&amp; (physics_test_overlap(x - 1, y + 1, 180, Grass) &amp;&amp; physics_test_overlap(x + 1, y + 1, 180, Grass)) {physics_apply_impulse(x, y, 0, -225);}
 if phy_speed_x &gt; 10 {phy_speed_x = 10;}
 if phy_speed_x &lt; -10 {phy_speed_x = -10;}
 if global.player_health &lt;= 0 {
