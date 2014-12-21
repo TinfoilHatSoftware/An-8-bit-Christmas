@@ -221,8 +221,10 @@ global.player_health = 0;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>global.player_health -= 1;
-instance_create(0, 0, DamageFlash)
+            <string>if global.player_health &gt; 1 {
+    global.player_health -= 1;
+    instance_create(0, 0, DamageFlash)
+}
 </string>
           </argument>
         </arguments>
