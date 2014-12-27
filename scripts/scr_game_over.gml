@@ -1,5 +1,5 @@
-if show_question("Game over! Retry?") {
+if show_question("You died! Retry?") {
     room_restart();
 } else {
-    game_end();
+    room_goto(Menu);
 }

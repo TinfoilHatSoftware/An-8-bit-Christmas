@@ -128,8 +128,9 @@ hp -= 1;
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>if abs(Player.x - x) &lt; 13 &amp;&amp; Player.y &lt; y - 10 {
+            <string>if abs(Player.x - x) &lt; 30 &amp;&amp; Player.y &lt; y - 5 {
     self.hp -= 1;
+    physics_apply_impulse(Player.x, Player.y, 0, -225);
 } else if can_melee {
     global.player_health -=1;
     instance_create(0, 0, DamageFlash);

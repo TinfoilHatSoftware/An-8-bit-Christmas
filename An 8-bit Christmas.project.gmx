@@ -18,33 +18,42 @@
     <sprite>sprites\sprite_RobotElf</sprite>
     <sprite>sprites\sprite_coal</sprite>
     <sprite>sprites\sprite_coal_elf</sprite>
-    <sprite>sprites\sprite_dirt</sprite>
     <sprite>sprites\sprite_fire</sprite>
     <sprite>sprites\sprite_Door</sprite>
+    <sprite>sprites\sprite_dirt</sprite>
+    <sprite>sprites\menu_begin</sprite>
+    <sprite>sprites\menu_quit</sprite>
   </sprites>
-  <backgrounds name="background"/>
+  <backgrounds name="background">
+    <background>background\logo</background>
+    <background>background\wasd</background>
+  </backgrounds>
   <paths name="paths"/>
   <scripts name="scripts">
     <script>scripts\scr_game_over.gml</script>
   </scripts>
   <objects name="objects">
     <object>objects\Grass</object>
-    <object>objects\Player</object>
+    <object>objects\Dirt</object>
     <object>objects\WorldWall</object>
+    <object>objects\Player</object>
     <object>objects\Explosion</object>
     <object>objects\Snowball</object>
     <object>objects\Snowdrift</object>
     <object>objects\RobotElf</object>
     <object>objects\CoalElf</object>
     <object>objects\Coal</object>
-    <object>objects\Dirt</object>
     <object>objects\Fire</object>
     <object>objects\DamageFlash</object>
     <object>objects\Door</object>
+    <object>objects\menu_quit_button</object>
+    <object>objects\menu_begin_button</object>
   </objects>
   <rooms name="rooms">
-    <room>rooms\room0</room>
-    <room>rooms\room2</room>
+    <room>rooms\Menu</room>
+    <room>rooms\level_1</room>
+    <room>rooms\level_2</room>
+    <room>rooms\room3</room>
   </rooms>
   <help>
     <rtf>help.rtf</rtf>

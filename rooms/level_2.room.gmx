@@ -413,6 +413,31 @@
     <instance objName="RobotElf" x="5568" y="960" name="inst_ECC0E53B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="RobotElf" x="5632" y="960" name="inst_6DB16B0A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="RobotElf" x="5696" y="960" name="inst_599774ED" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Grass" x="448" y="1024" name="inst_1EE6B14B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="1504" y="1024" name="inst_8A90C8E3" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5152" y="1024" name="inst_A8AFE7D8" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5152" y="992" name="inst_C88531BA" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5184" y="1024" name="inst_4457D0D6" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5216" y="1024" name="inst_FB176A90" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5248" y="1024" name="inst_89DDA8C2" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5280" y="1024" name="inst_FAFA2C4E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5312" y="1024" name="inst_36260AC1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5344" y="1024" name="inst_D6F7451A" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5376" y="1024" name="inst_F6DE805D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5408" y="1024" name="inst_57EC77FD" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5440" y="1024" name="inst_E1C1652D" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5472" y="1024" name="inst_9E6D2D94" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5504" y="1024" name="inst_C406AE21" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5536" y="1024" name="inst_84806303" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5568" y="1024" name="inst_C32B35A1" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5600" y="1024" name="inst_C292DD8B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5632" y="1024" name="inst_3B5995E7" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5664" y="1024" name="inst_7DEEFE50" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5696" y="1024" name="inst_809AA76B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5728" y="1024" name="inst_6391F485" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5760" y="1024" name="inst_9C89158B" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5792" y="1024" name="inst_F1651D4F" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
+    <instance objName="Dirt" x="5792" y="992" name="inst_2DA0AB70" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
   </instances>
   <tiles/>
   <PhysicsWorld>-1</PhysicsWorld>

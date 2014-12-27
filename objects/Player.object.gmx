@@ -149,7 +149,7 @@ global.player_health = 0;
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>room2</room>
+            <room>level_2</room>
           </argument>
         </arguments>
       </action>
@@ -171,7 +171,7 @@ global.player_health = 0;
         <arguments>
           <argument>
             <kind>11</kind>
-            <room>room0</room>
+            <room>Menu</room>
           </argument>
         </arguments>
       </action>
